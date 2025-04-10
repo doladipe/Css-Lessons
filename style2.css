@@ -1,0 +1,25 @@
+/* This CSS is for colors, background color and font  */
+
+.heading1 {
+  color: chocolate;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.heading2 {
+  background-color: blue;
+}
+.button1 {
+  color: coral;
+  padding: 20px;
+  margin: 30px;
+}
+.name1 {
+  background-color: blue;
+  font-family: monospace;
+}
+.square {
+  background-color: aquamarine;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: darkmagenta;
+  padding: 20px;
+  margin: 30px;
+}
